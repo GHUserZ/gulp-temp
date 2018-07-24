@@ -1,4 +1,4 @@
-
+``` bash
 # install dependencies
 npm install
 
@@ -10,6 +10,7 @@ npm run build
 
 # build for production and view the bundle analyzer report
 npm run build --report
+```
 
 1. 使用npm start命令将对应执行gulp dev命令； 
 2. 使用npm run dev命令将对应执行gulp dev命令； 
